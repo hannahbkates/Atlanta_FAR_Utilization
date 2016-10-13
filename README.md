@@ -1,11 +1,11 @@
 #Analyzing Residential FAR Utilization in Atlanta
 ---
 
-This notebook documents the methodology used to analyze the ratio of real built square footage on each parcel versus the total allowed square footage allowed per parcel according to each parcel's lot size and zoning requirements.
+This IPython notebook documents the methodology used to analyze the ratio of real built square footage on each parcel versus the total allowed square footage allowed per parcel according to each parcel's lot size and zoning requirements. Links to all data sources and the rendered charts are included in the notebook.
 
 **Objective:**
 
-To better understand whether zoning requirements are restricting the level of density per land area or if the market actually doesn't demand higher building density and more vertical development.
+To better understand whether zoning requirements are restricting the level of building density per land area or if the market actually doesn't demand higher building density and more vertical development.
 
 **Limits of analysis and assumptions:**
 
