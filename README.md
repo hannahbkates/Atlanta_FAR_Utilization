@@ -1,5 +1,4 @@
 # Analyzing Residential FAR Utilization in Atlanta
----
 
 This IPython notebook documents the methodology used to analyze the ratio of real built square footage on each parcel versus the total allowed square footage allowed per parcel according to each parcel's lot size and zoning requirements. Links to all data sources and the rendered charts are included in the notebook.
 
