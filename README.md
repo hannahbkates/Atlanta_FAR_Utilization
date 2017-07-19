@@ -2,9 +2,9 @@
 
 **Objective:**
 
-To better understand whether zoning requirements in the City of Atlanta are restricting the level of building density per land area or if the market actually doesn't demand higher building density and more vertical development.
+To better understand whether zoning requirements in the City of Atlanta are restricting the level of building density per land area, or if the real estate development market actually doesn't demand higher building density and more vertical development.
 
-This IPython notebook documents the methodology used to analyze the ratio of real built square footage on each parcel versus the total allowed square footage per parcel according to each parcel's lot size and zoning requirements. Links to all data sources and the rendered charts are included in the notebook. 
+The [IPython notebook](https://github.com/hannahkates/atlanta-far-utilization/blob/master/atl_far_utilization.ipynb) documents the methodology used to analyze the ratio of real built square footage on each parcel versus the total allowed square footage per parcel, according to each parcel's lot size and zoning requirements. Links to all data sources and the rendered charts are included in the notebook.
 
 The research paper that explains the analysis and findings is [available here](https://github.com/hannahkates/atlanta-far-utilization/blob/master/HKates%20Final%20Paper.pdf).
 
